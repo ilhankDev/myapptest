@@ -1,2 +1,4 @@
 ## MyAppTest
-This is test App (GitHub and Git) learning! 
+This is test application.
+### This is test App (GitHub and Git) learning! 
+I'm trying to understand Git.
